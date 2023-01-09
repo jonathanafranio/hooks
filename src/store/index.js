@@ -1,4 +1,4 @@
-import { reducer } from './reducers'
+import reducer from './reducers'
 import { numberAdd2 } from './actions/number'
 
 const initialState = {
